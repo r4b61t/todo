@@ -4,7 +4,7 @@ Analytical Mechanics
 - Hw 5
 - Hw 6
 - Hw 7
-- Finals = 23 midnight
+- Finals = Saturday Midnight
 
 Wave and Optics
 - Hw 1
