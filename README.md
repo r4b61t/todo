@@ -15,7 +15,6 @@ Wave and Optics
 - Finals = Friday Midnight
 
 Quantume Mechanics 2
-- Oral 2 = tmr
 - Finals = Thursday Morning
 
 DSOOP
