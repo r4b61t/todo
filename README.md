@@ -22,6 +22,6 @@ DSOOP
 - Lecture 19
 - Lecture 22 = Thursday Midnight
 - Assignment 8 = Tuesday Midnight
-- Quiz 5
+- Quiz 5 = Thursday
 
 
