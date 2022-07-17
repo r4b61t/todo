@@ -1,18 +1,18 @@
 Analytical Mechanics
--Hw 3
--Hw 4
--Hw 5
--Hw 6
--Hw 7
--Finals = 23 midnight
+- Hw 3
+- Hw 4
+- Hw 5
+- Hw 6
+- Hw 7
+- Finals = 23 midnight
 
 Wave and Optics
--Hw 1
--Hw 2
--Hw 3
--Hw 4
--Hw 5 = Wednesday
--Finals = Friday Midnight
+- Hw 1
+- Hw 2
+- Hw 3
+- Hw 4
+- Hw 5 = Wednesday
+- Finals = Friday Midnight
 
 Quantume Mechanics 2
 - Oral 2 = tmr
