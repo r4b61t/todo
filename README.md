@@ -14,7 +14,7 @@ Wave and Optics
 - Hw 5 = Wednesday
 - Finals = Friday Midnight
 
-Quantume Mechanics 2
+Quantum Mechanics 2
 - Finals = Thursday Morning
 
 DSOOP
