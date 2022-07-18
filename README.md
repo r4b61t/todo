@@ -8,7 +8,6 @@ Analytical Mechanics
 
 Wave and Optics
 - Hw 1
-- Hw 2
 - Hw 3
 - Hw 4
 - Hw 5 = Wednesday
