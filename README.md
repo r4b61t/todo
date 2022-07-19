@@ -7,7 +7,6 @@ Analytical Mechanics
 - Finals = Saturday Midnight
 
 Wave and Optics
-- Hw 1 (missing 1 question)
 - Finals = Friday Midnight
 
 Quantum Mechanics 2
