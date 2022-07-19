@@ -13,9 +13,6 @@ Quantum Mechanics 2
 - Finals = Thursday Morning
 
 DSOOP
-- Lecture 12++
-- Lecture 19
-- Lecture 22 = Thursday Midnight
 - Quiz 5 = Thursday
 
 
