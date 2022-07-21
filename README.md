@@ -9,9 +9,6 @@ Analytical Mechanics
 Wave and Optics
 - Finals = Friday Midnight
 
-Quantum Mechanics 2
-- Finals = Thursday Morning
-
 DSOOP
 - Quiz 5 = Thursday
 
