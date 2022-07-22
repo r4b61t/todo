@@ -6,10 +6,3 @@ Analytical Mechanics
 - Hw 7
 - Finals = Saturday Midnight
 
-Wave and Optics
-- Finals = Friday Midnight
-
-DSOOP
-- Quiz 5 = Thursday
-
-
