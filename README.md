@@ -1,5 +1,4 @@
 Analytical Mechanics
-- Hw 3
 - Hw 4
 - Hw 5
 - Hw 6
